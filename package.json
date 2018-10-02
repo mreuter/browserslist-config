@@ -1,0 +1,27 @@
+{
+  "name": "@mr-web/browserslist-config",
+  "version": "1.0.0",
+  "description": "My default browserslist configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mreuter/browserslist-config.git"
+  },
+  "keywords": [
+    "browserslist"
+  ],
+  "files": [
+    "index.js",
+    "LICENSE",
+    "package.json"
+  ],
+  "author": "Marc Reuter <marc@mr-web.info>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mreuter/browserslist-config/issues"
+  },
+  "homepage": "https://github.com/mreuter/browserslist-config#readme"
+}
